@@ -1,3 +1,4 @@
 basic/node_modules/*
-
 basic/package-lock.json
+intermediate/node_modules/*
+intermediate/package-lock.json
