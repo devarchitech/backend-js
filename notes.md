@@ -17,6 +17,15 @@ in package.json
     terminan command => npm run dev
 _____
 
+nvm allows you to quickly install and use different versions of node via the command line.
+example:
+$ nvm use 14
+Now using node v14.18.0 (npm v6.14.15)
+$ node -v
+v14.18.0
+$ nvm install 12
+Now using node v12.22.6 (npm v6.14.5)
+
 
 
 
