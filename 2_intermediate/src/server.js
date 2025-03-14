@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 import chalk from 'chalk'
 import authRoutes from './routes/authRoutes.js'
 import todoRoutes from './routes/todoRoutes.js'
-import authMiddleware from '../src/middleware/authMiddleware.js'
+import authMiddleware from './middleware/authMiddleware.js'
 
 //DECLARATIONS
 const app = express()
