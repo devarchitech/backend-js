@@ -26,7 +26,23 @@ v14.18.0
 $ nvm install 12
 Now using node v12.22.6 (npm v6.14.5)
 
+
+npm commands - npmjs.com keyword:css
+--------------------
+npm init -y
 npm install express bcryptjs jsonwwebtoken
+npm install --- will install packages listed in package.json
+npm list --- to find all packages installed
+npm view [package_name] version - current version
+npm view [package_name] versions - all versions
+npm update - get new version (minor and patch)
+npm install [package_name]@latest (or) @particularversion or @~major.
+
+npm run dev
+
+---------------------
+
+
 
 
 
